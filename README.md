@@ -1,5 +1,7 @@
 # df-plugin-anycubic
 
+> **Fork notice:** this is a modified fork of [Open-Resin-Alliance/df-plugin-anycubic](https://github.com/Open-Resin-Alliance/df-plugin-anycubic), maintained by [gilmardr](https://github.com/gilmardr) for [Rambutan Slicer](https://github.com/gilmardr/Rambutan-Slicer). The `rambutan` branch corrects printer display dimensions to match the panel specifications. It is not an official Open Resin Alliance release. The original copyright and MIT license are kept in [`LICENSE`](LICENSE); the full list of changes is in the Git history.
+
 DragonFruit Plugin for Anycubic Printers
 
 > **Asset source notice**
